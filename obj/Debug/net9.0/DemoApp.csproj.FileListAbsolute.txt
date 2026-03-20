@@ -1,0 +1,14 @@
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\bin\Debug\net9.0\DemoApp.exe
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\bin\Debug\net9.0\DemoApp.deps.json
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\bin\Debug\net9.0\DemoApp.runtimeconfig.json
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\bin\Debug\net9.0\DemoApp.dll
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\bin\Debug\net9.0\DemoApp.pdb
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\obj\Debug\net9.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\obj\Debug\net9.0\DemoApp.AssemblyInfoInputs.cache
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\obj\Debug\net9.0\DemoApp.AssemblyInfo.cs
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\obj\Debug\net9.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\obj\Debug\net9.0\DemoApp.dll
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\obj\Debug\net9.0\refint\DemoApp.dll
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\obj\Debug\net9.0\DemoApp.pdb
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\obj\Debug\net9.0\DemoApp.genruntimeconfig.cache
+C:\Users\saisr\OneDrive\Desktop\gitpratice\DemoApp\obj\Debug\net9.0\ref\DemoApp.dll
